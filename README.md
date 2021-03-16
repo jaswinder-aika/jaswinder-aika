@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaswinder-aika
+- 👋 Hi, I’m Jaswinder
 
 <!---
 jaswinder-aika/jaswinder-aika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
